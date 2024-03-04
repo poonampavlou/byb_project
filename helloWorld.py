@@ -1,2 +1,2 @@
-string = "Git is Awesome!"
+string = "Git is Awesome"
 print(string)
